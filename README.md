@@ -1,6 +1,8 @@
 Lodge
 =====
 
+fork from m-yamashita/lodge
+
 ## これは何？
 
 ロッジと呼びます。
